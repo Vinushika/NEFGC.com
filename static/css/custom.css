@@ -6,6 +6,10 @@ header{
     margin-top: 75px;
 }
 
+.bg-header {
+    background-color: #AA8AEF !important;
+}
+
 .iframe-container {
     position: relative;
     overflow: hidden;
